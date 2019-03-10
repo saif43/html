@@ -1,0 +1,58 @@
+p.serif {
+    font-family: "Times New Roman", Times, serif;
+ }
+ p.sansserif {
+    font-family: Helvetica, Arial, sans-serif;
+ }
+ p.monospace {
+    font-family: "Courier New", Courier, monospace;
+ }
+ p.cursive {
+    font-family: Florence, cursive;
+ }
+ p.fantasy {
+    font-family: Blippo, fantasy;
+ }
+
+ p.small {
+    font-size: small;
+ }
+ p.medium {
+    font-size: medium;
+ }
+ p.large {
+    font-size: large;
+ }
+ p.xlarge {
+    font-size: x-large;
+ }
+
+ p.normal {
+   font-style: normal;
+}
+p.italic {
+   font-style: italic;
+}
+p.oblique {
+   font-style: oblique;
+}
+
+p.light {   
+   font-weight: lighter;
+}
+p.bold {   
+   font-weight: bold;
+}
+p.bolder {
+   font-weight: bolder;
+}
+
+p.light {
+   font-weight: lighter;
+}
+p.thick {
+   font-weight: bold;
+}
+p.thicker {
+   font-weight: 700;
+}
