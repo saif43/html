@@ -1,0 +1,90 @@
+p.left {
+    text-align: left;
+ }
+ p.right {
+    text-align: right;
+ }
+ p.center {
+    text-align: center;
+ }
+
+span.baseline {
+   vertical-align: baseline;
+}
+span.sub {
+   vertical-align: sub;
+}
+span.super {
+   vertical-align: super;
+}
+span.pixel {
+   vertical-align: -10px;
+}
+
+p.none {
+   text-decoration: none;
+}
+p.inherit {
+   text-decoration: inherit;
+}
+p.overline {
+   text-decoration: overline;
+}
+p.underline {
+   text-decoration: underline;
+}
+p.line-through {
+   text-decoration: line-through;
+}
+p.blink{
+   text-decoration: blink;
+}
+p.text-indent{
+   text-indent: 60px;
+}
+h1{
+   color: blue;
+   font-size: 30pt;
+   text-shadow: 5px 2px 4px grey;
+}
+h1.shadow-blur-effect{
+   font-size: 30pt;   
+   text-shadow: rgba(0,0,255,1) -1px -2px 0.5em; 
+}
+p.capitalize{
+   text-transform: capitalize;
+}
+p.uppercase {
+   text-transform: uppercase;
+}
+p.lowercase {
+   text-transform: lowercase;
+}
+p.normal { 
+   letter-spacing: normal; 
+}
+p.positive { 
+   letter-spacing: 4px; 
+}
+p.negative { 
+   letter-spacing: -1.5px; 
+} 
+p.word-spacing-normal { 
+   word-spacing: normal;
+}
+
+p.word-spacing-positive { 
+   word-spacing: 20px;
+}
+p.word-spacing-negative { 
+   word-spacing: -5px;
+}
+p.pre {
+   white-space: pre;
+}
+p.preline {
+   white-space: pre-line;
+}
+p.prewrap {
+   white-space: pre-wrap;
+}
