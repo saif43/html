@@ -1,0 +1,9 @@
+p{
+   background-image: url('img.PNG');
+   width: 443px;
+   height: 222px;
+   border: 2px solid black;
+   font-style: Arial;
+   font-size: 150%;
+   text-align: center;
+}

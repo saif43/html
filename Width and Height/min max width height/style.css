@@ -1,0 +1,16 @@
+p.first {
+    border: 5px solid white;    
+    min-height: 100px;       
+ }
+ p.second {
+    border: 5px solid white;    
+    max-width: 100px;       
+ }
+
+body {
+   background-color: #87CEFA;
+}
+
+p{
+   background-color: LightGreen;
+}
