@@ -1,0 +1,8 @@
+p {
+   padding: 30px;
+   max-width: 240px;
+   text-align: center;
+   font-family: 'Open Sans', serif;
+   background-image: url("http://www.sololearn.com/images/tree.jpg");
+   color: white;   
+}
