@@ -1,0 +1,4 @@
+table{
+    empty-cells: hide;
+    /* border-collapse: separate; */
+}
