@@ -1,0 +1,9 @@
+div{
+    height: 400px;
+    width: 800px;
+    color: #fff;
+    background: linear-gradient(DeepSkyBlue,Black);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 120px;
+    text-align: center;
+}

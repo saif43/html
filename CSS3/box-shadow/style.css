@@ -1,0 +1,46 @@
+.shadow{
+    background-color: green;
+    width: 300px;
+    height: 100px;
+    box-shadow: 10px 10px #888888
+}
+
+.shadow-blur{
+    background-color: orange;
+    width: 300px;
+    height: 100px;
+    box-shadow: 10px 10px 5px 1px #888888
+}
+
+.shadow-blur-reverse{
+    background-color: red;
+    width: 300px;
+    height: 100px;
+    box-shadow: -10px -10px 5px -5px #888888;
+}
+
+.shadow-inner{
+    background-color: lime;
+    width: 300px;
+    height: 100px;
+    box-shadow: inset 10px 10px 5px #888888
+}
+
+.shadow-multiple{
+    background-color: rgba(0, 153, 255, 0.884);
+    width: 300px;
+    height: 100px;
+    box-shadow: 
+    inset 10px 10px 5px #888888, 
+    inset -10px -10px 5px #888888;
+}
+
+.shadow-multiple2{
+    background-color: rgba(0, 153, 255, 0.884);
+    width: 300px;
+    height: 100px;
+    margin-left: 50px;
+    box-shadow: 0 0 10px 4px #FF6347, 
+    0 0 10px 30px #FFDAB9, 
+    30px 0 20px 30px #B0E0E6;
+}
