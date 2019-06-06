@@ -1,0 +1,14 @@
+div.first {
+    height: 150px;
+    width: 200px;
+    color: #FFF;
+    /* background: -moz-radial-gradient(green, yellow, blue);    */
+    background: radial-gradient(lime,yellow,deepskyblue);
+}
+div.second {
+    height: 150px;
+    width: 200px;
+    color: #FFF;
+    background: radial-gradient(circle,lime,yellow,deepskyblue);
+    /* background: -moz-radial-gradient(circle, green, yellow, blue);  */
+ }
